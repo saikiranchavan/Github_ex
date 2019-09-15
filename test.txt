@@ -2,4 +2,6 @@ Hello this sai kiran going to say about git pull fork and clone
 
 hopefully you will be getting this things 
 
+this is the changes we are looking in to 
+
 thankyou
